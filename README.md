@@ -29,7 +29,7 @@ https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782
 
 ### Acknowledgements
 
-This project uses the source code from the following repositories:
+This project uses the source code from the following repositories. Thanks to Yaoyao Liu and Hanchao Zhang for their great works.
 
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
@@ -39,6 +39,6 @@ This project uses the source code from the following repositories:
 
 * [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
 
-* [Yaoyao Liu](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
+* [Yaoyao Liu's Homepage](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
 
-* [Hanchao Zhang](https://github.com/Hanchao-Zhang/Hanchao-Zhang.github.io)
+* [Hanchao Zhang's Homepage](https://github.com/Hanchao-Zhang/Hanchao-Zhang.github.io)
