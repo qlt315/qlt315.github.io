@@ -1,0 +1,24 @@
+main:
+  - title: "Bio"
+    url: ./#about-me
+
+  - title: "News"
+    url: ./#news
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Projects"
+    url: ./#projects
+
+  - title: "Awards"
+    url: ./#awards
+
+  - title: "Services"
+    url: ./#services
+
+
+
+
+
+
