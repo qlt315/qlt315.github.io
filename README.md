@@ -1,4 +1,4 @@
-# yaoyao-liu.github.io
+# qlt315.github.io
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
@@ -38,3 +38,7 @@ This project uses the source code from the following repositories:
 * [al-folio](https://github.com/alshedivat/al-folio)
 
 * [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
+
+* [Yaoyao Liu](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
+
+* [Hanchao Zhang](https://github.com/Hanchao-Zhang/Hanchao-Zhang.github.io)
