@@ -1,0 +1,10 @@
+name = "simplewifi"
+uuid = "a011b2f6-9fc2-47aa-a25a-7c5c7ff916af"
+authors = ["Tim Woodford <timthewoodford@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
