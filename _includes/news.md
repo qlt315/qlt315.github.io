@@ -3,6 +3,9 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+
+  <li><strong>[Sep. 2023]</strong> One paper about User-centric Mobile Edge Computing is accepted by IEEE Transactions on Mobile Computing (TMC).</li>
+
   <li><strong>[Aug. 2023]</strong> One paper about NOMA-based xURLLC is accepted by IEEE Communications Magazine.</li>
 
   <li><strong>[Jun. 2023]</strong> Next semester I will join the Department of Electrical and Computer Engineering at UC San Diego as a visiting graduate student.</li>

@@ -1,5 +1,13 @@
 main:
 
+  - title: Joint Optimization of Base Station Clustering and Service Caching in User-Centric MEC
+    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yao Lu, Chenwu Zhang, Feng Wu
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing, 2023. (Early Accepted)
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
+    code: https://github.com/xfflzl/CIM-CIL
+    image: ./assets/img/JO-CDSD.png
+
   - title: "When the User-Centric Network Meets Mobile Edge Computing: Challenges and Optimization"
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Feng Wu
     conference_short: ComMag
@@ -26,20 +34,10 @@ main:
     image: ./assets/img/blockchain_system_new.jpg
 
 
-
-  - title: Joint Optimization of Base Station Clustering and Service Caching in User-Centric MEC
-    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yao Lu, Chenwu Zhang, Feng Wu
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, Nov. 2022. (Under Major Revision)
-    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
-    code: https://github.com/xfflzl/CIM-CIL
-    image: ./assets/img/JO-CDSD.png
-
-
   - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha. Deng, Arumugam Nallanathan  
     conference_short: ComMag
-    conference: IEEE Communications Magazine, Aug. 2023. (Early Accept)
+    conference: IEEE Communications Magazine, 2023. (Early Accepted)
     pdf: https://www.researchgate.net/publication/372779511_When_xURLLC_Meets_NOMA_A_Stochastic_Network_Calculus_Perspective
     image: ./assets/img/NOMA-URLLC.jpg
 
