@@ -3,6 +3,11 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul>
+
+   <li>
+    National Scholarship, 2023
+  </li>
+
   <li>
     First Class Scholarship of USTC, 2022
   </li>
