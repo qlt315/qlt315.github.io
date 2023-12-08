@@ -19,7 +19,7 @@ main:
   - title: Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Fengqian Guo 
     conference_short: TVT
-    conference: IEEE Transactions on Vehicular Technology, Apr. 2023. (Under Major Revision)
+    conference: IEEE Transactions on Vehicular Technology, 2023. (Under Major Revision)
     pdf: https://www.techrxiv.org/ndownloader/files/40260103/1
     code: https://github.com/qlt315/NOMA-MEC-IoVT
     image: ./assets/img/loop_new.png
@@ -28,10 +28,20 @@ main:
   - title: Energy-Efficient Blockchain-enabled User-Centric Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Zhuojia Gu, Dan Zhao, Feng Wu
     conference_short: TCCN
-    conference: IEEE Transactions on Cognitive Communications and Networking, Feb. 2023. (Under Major Revision)
+    conference: IEEE Transactions on Cognitive Communications and Networking, 2023. (Under Major Revision)
     pdf: https://arxiv.org/pdf/2302.10515
     code: https://github.com/qlt315/Blockchain-enabled-UCMEC
     image: ./assets/img/blockchain_system_new.jpg
+
+
+  - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
+    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing, 2023. (Under Review)
+    pdf: https://arxiv.org/abs/2312.01499
+    code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
+    image: ./assets/img/UCMEC-mmWave-FH.jpg
+
 
 
   - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
@@ -51,7 +61,7 @@ main:
   - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chenwu Zhang, Chang Wen Chen 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, Sep. 2023. (Under Review)
+    conference: IEEE Transactions on Wireless Communications, Sep. 2023. (Under Minor Revision)
     pdf: https://arxiv.org/pdf/2302.10092
     image: ./assets/img/xURLLC-MUMIMO.jpg
 
