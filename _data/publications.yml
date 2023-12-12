@@ -54,14 +54,23 @@ main:
   - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
     authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, Jun. 2023.  (Under Major Revision)
+    conference: IEEE Transactions on Wireless Communications, 2023.  (Under Major Revision)
     pdf: https://arxiv.org/abs/2306.02107
     image: ./assets/img/NOMA-CellFree.jpg
+
+
+  - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
+    authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
+    conference_short: TCOM
+    conference: IEEE Transactions on Communications, 2023. (Under Major Revision)
+    pdf: https://arxiv.org/abs/2305.07935
+    image: ./assets/img/cross_layer.jpg
+
 
   - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chenwu Zhang, Chang Wen Chen 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, Sep. 2023. (Under Minor Revision)
+    conference: IEEE Transactions on Wireless Communications, 2023. (Under Minor Revision)
     pdf: https://arxiv.org/pdf/2302.10092
     image: ./assets/img/xURLLC-MUMIMO.jpg
 
@@ -69,7 +78,7 @@ main:
   - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, Aug. 2023. (Under Review)
+    conference: IEEE Transactions on Wireless Communications, 2023. (Under Review)
     pdf: https://arxiv.org/abs/2305.07935
     image: ./assets/img/360VR.jpg
 
