@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Jan. 2024]</strong> One paper about URLLC is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
+
   <li><strong>[Oct. 2023]</strong> I am awarded the National Scholarship.</li>
 
   <li><strong>[Sep. 2023]</strong> One paper about User-centric Mobile Edge Computing is accepted by IEEE Transactions on Mobile Computing (TMC).</li>
