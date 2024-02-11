@@ -19,8 +19,8 @@ main:
   - title: Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Fengqian Guo 
     conference_short: TVT
-    conference: IEEE Transactions on Vehicular Technology, 2023. (Under Major Revision)
-    pdf: https://www.techrxiv.org/ndownloader/files/40260103/1
+    conference: IEEE Transactions on Vehicular Technology, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10430407
     code: https://github.com/qlt315/NOMA-MEC-IoVT
     image: ./assets/img/loop_new.png
 
