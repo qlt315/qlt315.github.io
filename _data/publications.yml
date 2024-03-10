@@ -42,13 +42,13 @@ main:
     image: ./assets/img/UCMEC-mmWave-FH.jpg
 
 
+  - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
+    authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
+    conference_short: TCOM
+    conference: IEEE Transactions on Communications, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10445487
+    image: ./assets/img/cross_layer.jpg
 
-  - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
-    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha. Deng, Arumugam Nallanathan  
-    conference_short: ComMag
-    conference: IEEE Communications Magazine, 2023.
-    pdf: https://ieeexplore.ieee.org/document/10355071
-    image: ./assets/img/NOMA-URLLC.jpg
 
 
   - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
@@ -58,21 +58,19 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10382447
     image: ./assets/img/xURLLC-MUMIMO.jpg
 
+  - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
+    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha. Deng, Arumugam Nallanathan  
+    conference_short: ComMag
+    conference: IEEE Communications Magazine, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10355071
+    image: ./assets/img/NOMA-URLLC.jpg
+    
   - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
     authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
     conference_short: TWC
     conference: IEEE Transactions on Wireless Communications, 2024. (Under Review)
     pdf: https://arxiv.org/abs/2306.02107
     image: ./assets/img/NOMA-CellFree.jpg
-
-
-  - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
-    authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
-    conference_short: TCOM
-    conference: IEEE Transactions on Communications, 2024.
-    pdf: https://ieeexplore.ieee.org/document/10445487
-    image: ./assets/img/cross_layer.jpg
-
 
 
   - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives

@@ -15,9 +15,10 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907"><autocolor>IEEE Internet of Things Journal (IoTJ)</autocolor></a></li>
+    <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907"><autocolor>IEEE Internet of Things Journal (IoTJ)</autocolor></a></li>
+    <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687307"><autocolor>IEEE Transactions on Cognitive Communications and Networking</autocolor></a></li>
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234"><autocolor>IEEE Communications Letters</autocolor></a></li>
-  <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518636"><autocolor>IET Communications</autocolor></a></li>
+    <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/17518636"><autocolor>IET Communications</autocolor></a></li>
   <!-- <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
