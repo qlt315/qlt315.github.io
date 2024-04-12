@@ -20,9 +20,9 @@ main:
   - title: Joint Optimization of Base Station Clustering and Service Caching in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yao Lu, Chenwu Zhang, Feng Wu
     conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, 2023.
-    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
-    code: https://github.com/xfflzl/CIM-CIL
+    conference: IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 6455-6469, May 2024.
+    pdf: https://ieeexplore.ieee.org/document/10275092
+    code: https://github.com/qlt315/JO-CDSD
     image: ./assets/img/JO-CDSD.png
 
   - title: "When the User-Centric Network Meets Mobile Edge Computing: Challenges and Optimization"
@@ -36,7 +36,7 @@ main:
   - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
     conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, 2024. (Under Review)
+    conference: IEEE Transactions on Mobile Computing, 2024. (Under Major Revision)
     pdf: https://arxiv.org/abs/2312.01499
     code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
     image: ./assets/img/UCMEC-mmWave-FH.jpg
@@ -76,7 +76,7 @@ main:
   - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, 2024. (Under Review)
+    conference: IEEE Transactions on Wireless Communications, 2024. (Under Major Revision)
     pdf: https://arxiv.org/abs/2305.07935
     image: ./assets/img/360VR.jpg
 
