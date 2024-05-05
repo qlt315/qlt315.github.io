@@ -11,7 +11,7 @@ I am currently a M.S. student in Electrical Engineering at [University of Scienc
 My research interests lie in wireless communication and networking systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless architectures like **Cell-Free & User-Centric MIMO** / **Wireless Moble Edge Computing (MEC)** / **mmWave Networks** / **Ultra Reliable Low Latency Communications (URLLC)**, etc.
 
 
-**<font color=red>I will start pursuing my Ph.D. degree in Computer Sciecne at UC Irvine this Fall.</font>**
+**<font color=red>I will start pursuing my Ph.D. degree in Computer Science at UC Irvine this Fall.</font>**
 
 {% include_relative _includes/news.md %}
 
