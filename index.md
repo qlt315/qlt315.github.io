@@ -10,7 +10,8 @@ I am currently a third-year M.S. student in the Department of Electrical Enginee
 
 My research interests lie in wireless communication and networking systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless architectures like **Cell-Free & User-Centric MIMO** / **Wireless Moble Edge Computing (MEC)** / **mmWave Networks** / **Ultra Reliable Low Latency Communications (URLLC)**, etc.
 
-\color{red}{I will join UC Irvine as a PhD student in Computer Science this fall.}
+
+**I will join UC Irvine as a PhD student in Computer Science this fall.**
 
 {% include_relative _includes/news.md %}
 
