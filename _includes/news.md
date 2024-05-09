@@ -21,12 +21,13 @@
 
   <li><strong>[Jun. 2023]</strong> Next semester I will join the Department of Electrical and Computer Engineering at UC San Diego as a visiting graduate student.</li>
 
-  <li><strong>[Dec. 2022]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Communications Magazine.</li>
+
 
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
 
+  <li><strong>[Dec. 2022]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Communications Magazine.</li>
 
   <li><strong>[Jun. 2022]</strong> I will join the Broadband Communications Lab at UC Santa Cruz as a summer research intern.</li>
 
