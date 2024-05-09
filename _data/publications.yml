@@ -56,7 +56,7 @@ main:
     image: ./assets/img/xURLLC-MUMIMO.jpg
 
   - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
-    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha. Deng, Arumugam Nallanathan  
+    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha Deng, Arumugam Nallanathan  
     conference_short: ComMag
     conference: IEEE Communications Magazine, 2023.
     pdf: https://ieeexplore.ieee.org/document/10355071
