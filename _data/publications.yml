@@ -8,7 +8,6 @@ main:
     code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
     image: ./assets/img/UCMEC-mmWave-FH.jpg
 
-    
   - title: Energy-Efficient Blockchain-enabled User-Centric Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Zhuojia Gu, Dan Zhao, Feng Wu
     conference_short: TCCN
