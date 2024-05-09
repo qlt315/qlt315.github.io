@@ -1,5 +1,11 @@
 main:
-
+    - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
+    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing, 2024.
+    pdf: https://arxiv.org/abs/2312.01499
+    code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
+    image: ./assets/img/UCMEC-mmWave-FH.jpg
   
   - title: Energy-Efficient Blockchain-enabled User-Centric Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Zhuojia Gu, Dan Zhao, Feng Wu
@@ -33,13 +39,7 @@ main:
     code: https://github.com/qlt315/UCMEC_COMMAG
     image: ./assets/img/UCMEC_COMMAG.jpg
 
-  - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
-    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, 2024.
-    pdf: https://arxiv.org/abs/2312.01499
-    code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
-    image: ./assets/img/UCMEC-mmWave-FH.jpg
+
 
 
   - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
