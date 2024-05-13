@@ -1,5 +1,4 @@
 main:
-  message: Preprints
   - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
     conference_short: TMC
