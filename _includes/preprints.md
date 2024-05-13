@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px -15px;">Preprints</h2>
 
 
-<div class="preprints">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.preprints.main %}
