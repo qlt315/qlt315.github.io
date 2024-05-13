@@ -3,10 +3,10 @@
 <h2 style="margin: 60px 0px -15px;">Preprints</h2>
 
 
-<div class="publications">
+<div class="preprints">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.preprints.main %}
 
 <li>
 <div class="pub-row">
