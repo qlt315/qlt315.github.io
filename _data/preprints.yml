@@ -1,0 +1,24 @@
+main:
+    
+  - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
+    authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications, 2024. (Under Review)
+    pdf: https://arxiv.org/abs/2306.02107
+    image: ./assets/img/NOMA-CellFree.jpg
+
+
+  - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
+    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen 
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications, 2024. (Under Major Revision)
+    pdf: https://arxiv.org/abs/2305.07935
+    image: ./assets/img/360VR.jpg
+
+
+
+
+
+
+
+
