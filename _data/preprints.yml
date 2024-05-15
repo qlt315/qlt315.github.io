@@ -3,7 +3,7 @@ main:
   - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
     authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
     conference_short: arXiv
-    conference: arXiv:2306.02107
+    conference: arXiv e-prints
     pdf: https://arxiv.org/abs/2306.02107
     image: ./assets/img/NOMA-CellFree.jpg
 
@@ -11,6 +11,6 @@ main:
   - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen 
     conference_short: arXiv
-    conference: arXiv:305.07935
+    conference: arXiv e-prints
     pdf: https://arxiv.org/abs/2305.07935
     image: ./assets/img/360VR.jpg
