@@ -1,5 +1,13 @@
 main:
-    
+  
+  - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
+    authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong>, 
+    conference_short: arXiv
+    conference: arXiv e-prints
+    pdf: https://arxiv.org/abs/2310.03268
+    image: ./assets/img/CF-Distribution.png
+
+
   - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
     authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
     conference_short: arXiv
