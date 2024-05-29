@@ -1,5 +1,12 @@
 main:
   
+  - title: Performance Optimization in RSMA-assisted Uplink xURLLC IIoT Networks with Statistical QoS Provisioning
+    authors: Yuang Chen, Hancheng Lu, Chang Wu, <strong>Langtian Qin</strong>, Xiaobo Guo 
+    conference_short: arXiv
+    conference: arXiv e-prints
+    pdf: https://arxiv.org/abs/2405.16471
+    image: ./assets/img/RSMA-IIoT.jpg
+  
   - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
     authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
     conference_short: arXiv
@@ -22,3 +29,5 @@ main:
     conference: arXiv e-prints
     pdf: https://arxiv.org/abs/2305.07935
     image: ./assets/img/360VR.jpg
+
+    
