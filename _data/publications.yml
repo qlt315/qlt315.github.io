@@ -42,7 +42,7 @@ main:
   - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
     authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
     conference_short: TCOM
-    conference: IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, June 2024.
+    conference: IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, Jun. 2024.
     pdf: https://ieeexplore.ieee.org/document/10445487
     image: ./assets/img/cross_layer.jpg
 
@@ -58,7 +58,7 @@ main:
   - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha Deng, Arumugam Nallanathan  
     conference_short: ComMag
-    conference: IEEE Communications Magazine, vol. 62, no. 6, pp. 90-96, June 2024.
+    conference: IEEE Communications Magazine, vol. 62, no. 6, pp. 90-96, Jun. 2024.
     pdf: https://ieeexplore.ieee.org/document/10355071
     image: ./assets/img/NOMA-URLLC.jpg
     
