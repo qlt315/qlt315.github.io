@@ -3,6 +3,13 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul>
+    <li>
+    Outstanding graduate of Anhui Province, 2024
+  </li>
+
+      <li>
+    Outstanding graduate of USTC, 2024
+  </li>
 
    <li>
     National Scholarship, 2023

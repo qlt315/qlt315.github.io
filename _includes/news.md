@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Jun. 2024]</strong> I have graduated from USTC! I am awarded both the outstanding graduate of USTC and outstanding graduate of Anhui Province.</li>
+
   <li><strong>[May 2024]</strong> One paper about Cell-Free MIMO is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
 
   <li><strong>[May 2024]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Transactions on Mobile Computing (TMC).</li>
@@ -32,7 +34,7 @@
 
   <li><strong>[Jun. 2022]</strong> I will join the Broadband Communications Lab at UC Santa Cruz as a summer research intern.</li>
 
-  <li><strong>[Sep. 2021]</strong> After spending four wonderful years at XDU, I begin to pursue M.S. at USTC.</li>
+  <li><strong>[Sep. 2021]</strong> I have graduated from XDU! I am awarded the outstanding graduate of XDU.</li>
 
   <li><strong>[Oct. 2020]</strong> I am awarded the National Scholarship.</li>
 
