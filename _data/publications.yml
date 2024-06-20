@@ -39,6 +39,13 @@ main:
     code: https://github.com/qlt315/UCMEC_COMMAG
     image: ./assets/img/UCMEC_COMMAG.jpg
 
+  - title: Performance Optimization on Cell-Free Massive MIMO-Aided URLLC Systems With User Grouping
+    authors: Baolin Chong, Hancheng Lu, <strong>Langtian Qin</strong>, Zhenyu Xue, Fengqian Guo 
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10562201
+    image: ./assets/img/CF-URLLC.jpg
+
   - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
     authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
     conference_short: TCOM
