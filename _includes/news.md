@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Jun. 2024]</strong> I have graduated from USTC! I am awarded both the outstanding graduate of USTC and outstanding graduate of Anhui Province.</li>
+  <li><strong>[Jun. 2024]</strong> I have graduated from USTC! I am awarded the outstanding graduate of USTC and the outstanding graduate of Anhui Province.</li>
 
   <li><strong>[May 2024]</strong> One paper about Cell-Free MIMO is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
 
