@@ -18,7 +18,7 @@ main:
   - title: Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Fengqian Guo 
     conference_short: TVT
-    conference: IEEE Transactions on Vehicular Technology, 2024.
+    conference: IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9984-9999, Jul. 2024.
     pdf: https://ieeexplore.ieee.org/document/10430407
     code: https://github.com/qlt315/NOMA-MEC-IoVT
     image: ./assets/img/loop_new.png
@@ -58,7 +58,7 @@ main:
   - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
     authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chenwu Zhang, Chang Wen Chen 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, 2024.
+    conference: IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 8044-8058, Jul. 2024.
     pdf: https://ieeexplore.ieee.org/document/10382447
     image: ./assets/img/xURLLC-MUMIMO.jpg
 
