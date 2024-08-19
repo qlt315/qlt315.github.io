@@ -10,7 +10,7 @@ main:
   - title: Energy-Efficient Blockchain-enabled User-Centric Mobile Edge Computing
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Zhuojia Gu, Dan Zhao, Feng Wu
     conference_short: TCCN
-    conference: IEEE Transactions on Cognitive Communications and Networking, 2024.
+    conference: IEEE Transactions on Cognitive Communications and Networking, vol. 10, no. 4, pp. 1452-1466, Aug. 2024.
     pdf: https://ieeexplore.ieee.org/document/10460318
     code: https://github.com/qlt315/Blockchain-enabled-UCMEC
     image: ./assets/img/blockchain_system_new.jpg
@@ -38,6 +38,13 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9952196
     code: https://github.com/qlt315/UCMEC_COMMAG
     image: ./assets/img/UCMEC_COMMAG.jpg
+
+  - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
+    authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
+    conference_short: TCOM
+    conference: IEEE Transactions on Communications, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10634189
+    image: ./assets/img/CF-Distribution.png
 
   - title: Performance Optimization on Cell-Free Massive MIMO-Aided URLLC Systems With User Grouping
     authors: Baolin Chong, Hancheng Lu, <strong>Langtian Qin</strong>, Zhenyu Xue, Fengqian Guo 
