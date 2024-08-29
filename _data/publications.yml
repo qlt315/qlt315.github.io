@@ -39,6 +39,14 @@ main:
     code: https://github.com/qlt315/UCMEC_COMMAG
     image: ./assets/img/UCMEC_COMMAG.jpg
 
+
+  - title: Energy Optimization in Statistical AoI-aware MEC Systems
+    authors: Qi Meng, Hancheng Lu, <strong>Langtian Qin</strong> 
+    conference_short: CL
+    conference: IEEE Communications Letters, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10648746
+    image: ./assets/img/AoI-MEC.jpg
+
   - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
     authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
     conference_short: TCOM
