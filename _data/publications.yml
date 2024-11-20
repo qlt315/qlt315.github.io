@@ -2,7 +2,7 @@ main:
   - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
     conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing, 2024.
+    conference: IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 11807-11823, Dec. 2024
     pdf: https://ieeexplore.ieee.org/document/10529607
     code: https://github.com/qlt315/UCMEC-mmWave-Fronthaul
     image: ./assets/img/UCMEC-mmWave-FH.jpg
@@ -15,13 +15,13 @@ main:
     code: https://github.com/qlt315/Blockchain-enabled-UCMEC
     image: ./assets/img/blockchain_system_new.jpg
   
-  - title: Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing
-    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Fengqian Guo 
-    conference_short: TVT
-    conference: IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9984-9999, Jul. 2024.
-    pdf: https://ieeexplore.ieee.org/document/10430407
-    code: https://github.com/qlt315/NOMA-MEC-IoVT
-    image: ./assets/img/loop_new.png
+#  - title: Joint Transmission and Resource Optimization in NOMA-assisted IoVT with Mobile Edge Computing
+#    authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Fengqian Guo
+#    conference_short: TVT
+#    conference: IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9984-9999, Jul. 2024.
+#    pdf: https://ieeexplore.ieee.org/document/10430407
+#    code: https://github.com/qlt315/NOMA-MEC-IoVT
+#    image: ./assets/img/loop_new.png
 
   - title: Joint Optimization of Base Station Clustering and Service Caching in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yao Lu, Chenwu Zhang, Feng Wu
@@ -40,12 +40,12 @@ main:
     image: ./assets/img/UCMEC_COMMAG.jpg
 
 
-  - title: Energy Optimization in Statistical AoI-aware MEC Systems
-    authors: Qi Meng, Hancheng Lu, <strong>Langtian Qin</strong> 
-    conference_short: CL
-    conference: IEEE Communications Letters, 2024.
-    pdf: https://ieeexplore.ieee.org/document/10648746
-    image: ./assets/img/AoI-MEC.jpg
+#  - title: Energy Optimization in Statistical AoI-aware MEC Systems
+#    authors: Qi Meng, Hancheng Lu, <strong>Langtian Qin</strong>
+#    conference_short: CL
+#    conference: IEEE Communications Letters, 2024.
+#    pdf: https://ieeexplore.ieee.org/document/10648746
+#    image: ./assets/img/AoI-MEC.jpg
 
   - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
     authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
