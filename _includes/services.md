@@ -5,8 +5,8 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
-<li><autocolor>ICS 132 Computer Networks, 2025 Winter</autocolor></li>
-<li><autocolor>ICS 45C Programming in C/C++, 2025 Spring</autocolor></li>
+<li>ICS 132 Computer Networks, 2025 Winter, UC Irvine</li>
+<li>ICS 45C Programming in C/C++, 2025 Spring, UC Irvine</li>
 </ul>
 
 
