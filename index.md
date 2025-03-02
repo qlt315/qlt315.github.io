@@ -9,12 +9,10 @@ layout: homepage
 [//]: # (I  was a graduate visiting student at [UC San Diego &#40;UCSD&#41;]&#40;https://ece.ucsd.edu/&#41;, hosted by [Prof. Xinyu Zhang]&#40;http://xyzhang.ucsd.edu/&#41; in 2023. I worked as a research intern with [Prof. Hamid Sadjadpour]&#40;https://users.soe.ucsc.edu/~hamid/&#41; and [Prof. Zouheir Rezki]&#40;https://sites.google.com/site/zouheirrezki/home?authuser=0&#41; at [UC Santa Cruz &#40;UCSC&#41;]&#40;https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/&#41; in 2022.)
 I am a Computer Science PhD student at [UC Irvine (UCI)](https://ics.uci.edu/), advised by [Prof. Marco Levorato](https://iasl.ics.uci.edu/people/marco-levorato/). I obtained my M.S. in Electrical Engineering at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn) in 2024, advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu) and [Prof. Feng Wu](https://scholar.google.com/citations?hl=zh-CN&user=5bInRDEAAAAJ).  Prior to this, I received my B.E. in Information Engineering from [Xidian University (XDU)](https://en.xidian.edu.cn/) in 2021. 
 
-My research interests lie in wireless communication and networking systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless architectures like **Semantic Communications** /  **Cell-Free & User-Centric MIMO** / **Wireless Mobile Edge Computing (MEC)** etc.
+My research interests lie in wireless communication and networking systems, with a focus on theoretical analysis, optimization and system implementation of next-generation wireless architectures like **Cell-Free & User-Centric MIMO** and **Wireless Mobile Edge Computing (MEC)**, etc.
 
 
 {% include_relative _includes/news.md %}
-
-[//]: # ({% include_relative _includes/preprints.md %})
 
 {% include_relative _includes/publications.md %}
 

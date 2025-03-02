@@ -3,11 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Feb. 2025]</strong> One paper about Cell-Free MIMO is accepted by IEEE Transactions on Vehicular Technology (TVT).</li>
-
   <li><strong>[Feb. 2025]</strong> One paper about VR Video Streaming is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
-
-  <li><strong>[Dec. 2024]</strong> One paper about Intelligent reconfigurable surface (IRS) is accepted by IEEE Transactions on Vehicular Technology (TVT).</li>
 
   <li><strong>[Aug. 2024]</strong> One paper about Mobile Edge Computing is accepted by IEEE Communications Letters.</li>
  
@@ -21,20 +17,16 @@
 
   <li><strong>[Mar. 2024]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Transactions on Cognitive Communications and Networking (TCCN).</li>
 
-
-
-
-
-
-  
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
   <li><strong>[Feb. 2024]</strong> One paper about Cross-Layer Optimization in URLLC is accepted by IEEE Transactions on Communications (TCOM).</li>
 
   <li><strong>[Feb. 2024]</strong> One paper about Mobile Edge Computing is accepted by IEEE Transactions on Vehicular Technology (TVT).</li>
 
   <li><strong>[Jan. 2024]</strong> One paper about URLLC is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
 
+
+  
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none"> 
   <li><strong>[Oct. 2023]</strong> I am awarded the National Scholarship.</li>
 
   <li><strong>[Sep. 2023]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Transactions on Mobile Computing (TMC).</li>
