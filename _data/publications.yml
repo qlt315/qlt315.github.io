@@ -47,17 +47,25 @@ main:
 #    pdf: https://ieeexplore.ieee.org/document/10648746
 #    image: ./assets/img/AoI-MEC.jpg
 
+  - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
+    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10907861
+    image: ./assets/img/360VR.jpg
+
+
   - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
     authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
     conference_short: TCOM
-    conference: IEEE Transactions on Communications, 2024.
+    conference: IEEE Transactions on Communications, vol. 73, no. 2, pp. 832-845, Feb. 2025.
     pdf: https://ieeexplore.ieee.org/document/10634189
     image: ./assets/img/CF-Distribution.png
 
   - title: Performance Optimization on Cell-Free Massive MIMO-Aided URLLC Systems With User Grouping
     authors: Baolin Chong, Hancheng Lu, <strong>Langtian Qin</strong>, Zhenyu Xue, Fengqian Guo 
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, 2024.
+    conference: IEEE Transactions on Wireless Communications,  vol. 23, no. 10, pp. 13977-13992, Oct. 2024.
     pdf: https://ieeexplore.ieee.org/document/10562201
     image: ./assets/img/CF-URLLC.jpg
 
@@ -87,17 +95,11 @@ main:
   # - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
   #   authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
   #   conference_short: TWC
-  #   conference: IEEE Transactions on Wireless Communications, 2024. (Under Review)
+  #   conference: IEEE Transactions on Vehicular Technology, 2025.
   #   pdf: https://arxiv.org/abs/2306.02107
   #   image: ./assets/img/NOMA-CellFree.jpg
 
 
-  # - title: Streaming 360-degree VR Video with Statistical QoS Provisioning in mmWave Networks from Delay and Rate Perspectives
-  #   authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chang Wu, Chang Wen Chen 
-  #   conference_short: TWC
-  #   conference: IEEE Transactions on Wireless Communications, 2024. (Under Major Revision)
-  #   pdf: https://arxiv.org/abs/2305.07935
-  #   image: ./assets/img/360VR.jpg
 
 
 
