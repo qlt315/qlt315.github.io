@@ -14,7 +14,7 @@
 
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://infocom2025.ieee-infocom.org//"><autocolor> IEEE International Conference on Computer Communications (INFOCOM), 2025</autocolor></a></li>
@@ -27,7 +27,7 @@
 
 
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
     <li><a href="https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
