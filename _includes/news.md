@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Mar. 2025]</strong> My master's thesis at USTC is awarded the Outstanding Master's Thesis (Thesis Incentive Program) by the Chinese Institute of Electronics.</li>
+
   <li><strong>[Feb. 2025]</strong> One paper about VR Video Streaming is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
  
   <li><strong>[Aug. 2024]</strong> One paper about Cell-Free MIMO is accepted by IEEE Transactions on Communications (TCOM).</li>

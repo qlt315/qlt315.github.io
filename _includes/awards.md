@@ -4,6 +4,10 @@
 
 <ul>
     <li>
+    Outstanding Master's Thesis of Chinese Institute of Electronics, 2025
+  </li>
+
+    <li>
     Outstanding graduate of Anhui Province, 2024
   </li>
 
