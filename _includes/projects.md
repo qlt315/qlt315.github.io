@@ -22,6 +22,24 @@
 <br>
 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MmWave_Testbed.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">mmWave</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/img/MmWave_Testbed.jpg" target="_blank"> Wireless Split Computing via Dynamic Neural Networks (@UCI)</a></div>
+    <div class="author"> Traditional split computing frameworks rely on static deep neural networks (DNNs), which lack the flexibility to adapt to dynamic wireless conditions and varying task demands. We co-design dynamic DNN models, communication pipelines, and system resource orchestration strategies to enable flexible and reliable edge inference that balances inference performance and communication/computation overhead.  </div>
+    <div class="periodical"><em></em></div>
+  </div>
+</div>
+</li>
+  
+<br>
+
 
 <li>
 <div class="pub-row">

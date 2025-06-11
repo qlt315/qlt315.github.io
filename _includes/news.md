@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Jun. 2025]</strong> One paper about URLLC is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
+
   <li><strong>[Mar. 2025]</strong> One paper about Distributed Sensor Fusion is accepted by 45th IEEE International Conference on Distributed Computing Systems (ICDCS'25). The acceacptance rate is 104/529 ≈ 19.6%. </li>
 
   <li><strong>[Mar. 2025]</strong> My master's thesis at USTC is awarded the Outstanding Master's Thesis (Thesis Incentive Program) by the Chinese Institute of Electronics.</li>
