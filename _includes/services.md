@@ -17,7 +17,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.sigmobile.org/mobihoc/2025/"><autocolor>26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025</autocolor></a></li>
+  <li><a href="https://www.sigmobile.org/mobihoc/2025/"><autocolor>ACM 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2025</autocolor></a></li>
   <li><a href="https://infocom2025.ieee-infocom.org//"><autocolor> IEEE International Conference on Computer Communications (INFOCOM), 2025</autocolor></a></li>
   <li><a href="https://www.percom.org/"><autocolor> IEEE International Conference on Pervasive Computing and Communications (PerCom), 2025</autocolor></a></li>
   <li><a href="https://globecom2023.ieee-globecom.org/"><autocolor> IEEE Global Communications Conference (GLOBECOM), 2023</autocolor></a></li>
