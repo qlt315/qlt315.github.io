@@ -69,28 +69,28 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10562201
     image: ./assets/img/CF-URLLC.jpg
 
-  - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
-    authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
-    conference_short: TCOM
-    conference: IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, Jun. 2024.
-    pdf: https://ieeexplore.ieee.org/document/10445487
-    image: ./assets/img/cross_layer.jpg
+  # - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
+  #   authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>
+  #   conference_short: TCOM
+  #   conference: IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, Jun. 2024.
+  #   pdf: https://ieeexplore.ieee.org/document/10445487
+  #   image: ./assets/img/cross_layer.jpg
 
 
 
-  - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
-    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chenwu Zhang, Chang Wen Chen 
-    conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 8044-8058, Jul. 2024.
-    pdf: https://ieeexplore.ieee.org/document/10382447
-    image: ./assets/img/xURLLC-MUMIMO.jpg
+  # - title: "Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective"
+  #   authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Chenwu Zhang, Chang Wen Chen 
+  #   conference_short: TWC
+  #   conference: IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 8044-8058, Jul. 2024.
+  #   pdf: https://ieeexplore.ieee.org/document/10382447
+  #   image: ./assets/img/xURLLC-MUMIMO.jpg
 
-  - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
-    authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha Deng, Arumugam Nallanathan  
-    conference_short: ComMag
-    conference: IEEE Communications Magazine, vol. 62, no. 6, pp. 90-96, Jun. 2024.
-    pdf: https://ieeexplore.ieee.org/document/10355071
-    image: ./assets/img/NOMA-URLLC.jpg
+  # - title: "When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective"
+  #   authors: Yuang Chen, Hancheng Lu, <strong>Langtian Qin</strong>, Yansha Deng, Arumugam Nallanathan  
+  #   conference_short: ComMag
+  #   conference: IEEE Communications Magazine, vol. 62, no. 6, pp. 90-96, Jun. 2024.
+  #   pdf: https://ieeexplore.ieee.org/document/10355071
+  #   image: ./assets/img/NOMA-URLLC.jpg
     
   # - title: Achievable Sum Rate Optimization on NOMA-aided Cell-Free Massive MIMO with Finite Blocklength Coding
   #   authors: Baolin Chong, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>, Fengqian Guo
