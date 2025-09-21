@@ -7,11 +7,11 @@
     Outstanding Master's Thesis of Chinese Institute of Electronics, 2025
   </li>
 
-    <li>
+  <li>
     Outstanding graduate of Anhui Province, 2024
   </li>
 
-      <li>
+  <li>
     Outstanding graduate of USTC, 2024
   </li>
 
@@ -20,16 +20,11 @@
   </li>
 
   <li>
-    First Class Scholarship of USTC, 2022
+    First Class Scholarship of USTC, 2021, 2022
   </li>
 
 
   <li>
-    First Class Scholarship of USTC, 2021
-  </li>
-
-
-    <li>
     Outstanding graduate of XDU, 2021
   </li>
 

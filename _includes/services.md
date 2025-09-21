@@ -36,5 +36,6 @@
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26"><autocolor>IEEE Transactions on Communications (TCOM)</autocolor></a></li>
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687307"><autocolor>IEEE Transactions on Cognitive Communications and Networking (TCCN)</autocolor></a></li>
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028"><autocolor>IEEE Transactions on Network and Service Management (TNSM)</autocolor></a></li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25"><autocolor>IEEE Transactions on Vehicular Technology (TVT)</autocolor></a></li>
     <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234"><autocolor>IEEE Communications Letters</autocolor></a></li>
 </ul>
