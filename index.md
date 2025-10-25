@@ -20,6 +20,8 @@ My research interests lie in the intersection of *Machine Learning (ML)* and *Wi
 
 {% include_relative _includes/awards.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/services.md %}
 
 
