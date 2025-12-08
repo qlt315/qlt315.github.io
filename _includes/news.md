@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Dec. 2025]</strong> One paper about Semantic RAN Slicing is accepted by IEEE International Conference on Computer Communications (INFOCOM'26). The acceacptance rate is 329/1740 ≈ 18.9%. </li>
+
   <li><strong>[Jun. 2025]</strong> One paper about URLLC is accepted by IEEE Transactions on Wireless Communications (TWC).</li>
 
   <li><strong>[Mar. 2025]</strong> One paper about Distributed Sensor Fusion is accepted by 45th IEEE International Conference on Distributed Computing Systems (ICDCS'25). The acceacptance rate is 104/529 ≈ 19.6%. </li>
