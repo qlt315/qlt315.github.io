@@ -16,7 +16,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/img/UCMEC_system.jpg" target="_blank">Task Offloading and Resource Allocation in User-Centric Mobile Edge Computing (@USTC)</a></div>
-    <div class="author">To break through the transmission and computing capability bottleneck of cellular-based mobile edge computing (MEC), we propose a novel MEC framework called User-Centric MEC (UCMEC), which can provide users with efficient, reliable, low-cost user-centric wireless transmission and edge computing services. To further exploit the benefits of UCMEC, we propose various algorihms to optimize the task offloading and resource allocation strategies in UCMEC under different scenarios.</div>
+    <div class="author">To break through the transmission and computing capability bottleneck of cellular-based mobile edge computing (MEC), we propose a novel MEC framework called User-Centric MEC (UCMEC), which can provide users with efficient, reliable, low-cost user-centric wireless transmission and edge computing services. To further exploit the benefits of UCMEC, we propose various algorithms to optimize the task offloading and resource allocation strategies in UCMEC under different scenarios.</div>
     <div class="periodical"><em></em></div>
   
 <br>
