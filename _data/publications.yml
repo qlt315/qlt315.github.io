@@ -1,5 +1,5 @@
 main:
-  - title: OMNIS: Semantic RAN Slicing via Dynamic Split Neural Networks
+  - title: "OMNIS: Semantic RAN Slicing via Dynamic Split Neural Networks"
     authors: <strong>Langtian Qin</strong>, Ian Andrew Harshbarger, Leïla Nasraoui, Carla Fabiana Chiasserini, Marco Levorato
     conference_short: INFOCOM
     conference: IEEE Conference on Computer Communications, 2026
@@ -8,7 +8,7 @@ main:
     image: ./assets/img/omnis.jpg
     
       
-  - title: HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion
+  - title: "HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion"
     authors: <strong>Langtian Qin</strong>, Yashuo Wu, Sameh Najeh, Marco Levorato, Carla Fabiana Chiasserini
     conference_short: ICDCS
     conference: IEEE International Conference on Distributed Computing Systems, 2025
