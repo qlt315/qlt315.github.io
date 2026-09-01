@@ -5,7 +5,7 @@ main:
     conference: IEEE Conference on Computer Communications, 2026
     pdf: https://ieeexplore.ieee.org/abstract/document/11571606
     code: https://github.com/qlt315/OMNIS
-    image: ./assets/img/omnis.jpg
+    image: ./assets/img/OMNIS.jpg
     
       
   - title: "HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion"
@@ -14,7 +14,7 @@ main:
     conference: IEEE International Conference on Distributed Computing Systems, 2025
     pdf: https://ieeexplore.ieee.org/abstract/document/11183785
     code: https://github.com/qlt315/HERACLES
-    image: ./assets/img/Hierfusion.jpg  
+    image: ./assets/img/HierFusion.jpg  
   
   - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
