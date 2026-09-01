@@ -1,4 +1,21 @@
 main:
+  - title: OMNIS: Semantic RAN Slicing via Dynamic Split Neural Networks
+    authors: <strong>Langtian Qin</strong>, Ian Andrew Harshbarger, Leïla Nasraoui, Carla Fabiana Chiasserini, Marco Levorato
+    conference_short: INFOCOM
+    conference: IEEE Conference on Computer Communications, 2026
+    pdf: https://ieeexplore.ieee.org/abstract/document/11571606
+    code: https://github.com/qlt315/OMNIS
+    image: ./assets/img/omnis.jpg
+    
+      
+  - title: HERACLES: Hierarchical Semantic Communications for Distributed Dynamic Sensor Fusion
+    authors: <strong>Langtian Qin</strong>, Yashuo Wu, Sameh Najeh, Marco Levorato, Carla Fabiana Chiasserini
+    conference_short: ICDCS
+    conference: IEEE International Conference on Distributed Computing Systems, 2025
+    pdf: https://ieeexplore.ieee.org/abstract/document/11183785
+    code: https://github.com/qlt315/HERACLES
+    image: ./assets/img/Hierfusion.jpg  
+  
   - title: Towards Decentralized Task Offloading and Resource Allocation in User-Centric MEC
     authors: <strong>Langtian Qin</strong>, Hancheng Lu, Yuang Chen, Baolin Chong, Feng Wu
     conference_short: TMC
@@ -55,19 +72,19 @@ main:
     image: ./assets/img/360VR.jpg
 
 
-  - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
-    authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
-    conference_short: TCOM
-    conference: IEEE Transactions on Communications, vol. 73, no. 2, pp. 832-845, Feb. 2025.
-    pdf: https://ieeexplore.ieee.org/document/10634189
-    image: ./assets/img/CF-Distribution.png
+  # - title: On the Distribution of SINR for Cell-Free Massive MIMO Systems
+  #   authors: Baolin Chong, Fengqian Guo, Hancheng Lu, <strong>Langtian Qin</strong> 
+  #   conference_short: TCOM
+  #   conference: IEEE Transactions on Communications, vol. 73, no. 2, pp. 832-845, Feb. 2025.
+  #   pdf: https://ieeexplore.ieee.org/document/10634189
+  #   image: ./assets/img/CF-Distribution.png
 
-  - title: Performance Optimization on Cell-Free Massive MIMO-Aided URLLC Systems With User Grouping
-    authors: Baolin Chong, Hancheng Lu, <strong>Langtian Qin</strong>, Zhenyu Xue, Fengqian Guo 
-    conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications,  vol. 23, no. 10, pp. 13977-13992, Oct. 2024.
-    pdf: https://ieeexplore.ieee.org/document/10562201
-    image: ./assets/img/CF-URLLC.jpg
+  # - title: Performance Optimization on Cell-Free Massive MIMO-Aided URLLC Systems With User Grouping
+  #   authors: Baolin Chong, Hancheng Lu, <strong>Langtian Qin</strong>, Zhenyu Xue, Fengqian Guo 
+  #   conference_short: TWC
+  #   conference: IEEE Transactions on Wireless Communications,  vol. 23, no. 10, pp. 13977-13992, Oct. 2024.
+  #   pdf: https://ieeexplore.ieee.org/document/10562201
+  #   image: ./assets/img/CF-URLLC.jpg
 
   # - title: Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding
   #   authors: Chang Wu, Hancheng Lu, Yuang Chen, <strong>Langtian Qin</strong>

@@ -10,6 +10,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OMNIS.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Split</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/img/split.png" target="_blank"> Enable Split Computing for Dynamic Deep Neural Networks (@UCI)</a></div>
+    <div class="author"> Traditional split computing frameworks rely on static deep neural networks (DNNs), which lack the flexibility to adapt to dynamic wireless conditions and varying task demands. We co-design dynamic DNN models, communication pipelines, and system resource orchestration strategies to enable flexible and reliable edge inference that balances inference performance and communication/computation overhead.  </div>
+    <div class="periodical"><em></em></div>
+  </div>
+</div>
+</li>
+  
+<br>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/UCMEC_system.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">UCMEC</abbr>
   </div>
@@ -22,23 +41,6 @@
 <br>
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OMNIS.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Split</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/img/OMNIS.jpg" target="_blank"> Enable Wireless Split Computing via Dynamic Deep Neural Networks (@UCI)</a></div>
-    <div class="author"> Traditional split computing frameworks rely on static deep neural networks (DNNs), which lack the flexibility to adapt to dynamic wireless conditions and varying task demands. We co-design dynamic DNN models, communication pipelines, and system resource orchestration strategies to enable flexible and reliable edge inference that balances inference performance and communication/computation overhead.  </div>
-    <div class="periodical"><em></em></div>
-  </div>
-</div>
-</li>
-  
-<br>
 
 
 <li>
